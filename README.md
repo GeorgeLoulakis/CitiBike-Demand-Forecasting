@@ -1,4 +1,8 @@
+
+
 # CitiBike-Demand-Forecasting
+
+Final Project for the DTU course [42577 – Introduction to Business Analytics](https://kurser.dtu.dk/course/42577).
 
 Forecasting bike-sharing demand and extracting operational insights from Citi Bike NYC data using clustering, time-series modeling, graph analytics, and weather-aware analysis.
 
